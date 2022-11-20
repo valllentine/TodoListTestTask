@@ -1,0 +1,14 @@
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\bin\Debug\net6.0\TodoList.DAL.deps.json
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\bin\Debug\net6.0\TodoList.DAL.runtimeconfig.json
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\bin\Debug\net6.0\TodoList.DAL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\bin\Debug\net6.0\TodoList.DAL.pdb
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.csproj.AssemblyReference.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.AssemblyInfoInputs.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.AssemblyInfo.cs
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\refint\TodoList.DAL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.pdb
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\TodoList.DAL.genruntimeconfig.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.DAL\obj\Debug\net6.0\ref\TodoList.DAL.dll

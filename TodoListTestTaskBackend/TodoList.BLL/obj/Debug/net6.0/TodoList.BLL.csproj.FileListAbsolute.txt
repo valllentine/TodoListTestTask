@@ -1,0 +1,15 @@
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.csproj.AssemblyReference.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.AssemblyInfoInputs.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.AssemblyInfo.cs
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.csproj.CoreCompileInputs.cache
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\bin\Debug\net6.0\TodoList.BLL.deps.json
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\bin\Debug\net6.0\TodoList.BLL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\bin\Debug\net6.0\TodoList.BLL.pdb
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\bin\Debug\net6.0\TodoList.DAL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\bin\Debug\net6.0\TodoList.DAL.pdb
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.csproj.CopyComplete
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\refint\TodoList.BLL.dll
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\TodoList.BLL.pdb
+C:\Users\matil\source\repos\TodoListTestTask\TodoList.BLL\obj\Debug\net6.0\ref\TodoList.BLL.dll

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "ED4a3c/3QtkMCKRM6ZkxCJHTr2PmlfMCM0FVDnlLG+E=",
+  "Source": "TodoListTestTask",
+  "BasePath": "_content/TodoListTestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TodoListTestTask.styles.css",
+      "SourceId": "TodoListTestTask",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/TodoListTestTask",
+      "RelativePath": "TodoListTestTask.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TodoListTestTask.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TodoListTestTask.bundle.scp.css",
+      "SourceId": "TodoListTestTask",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/TodoListTestTask",
+      "RelativePath": "TodoListTestTask.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\matil\\source\\repos\\TodoListTestTask\\TodoListTestTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TodoListTestTask.bundle.scp.css"
+    }
+  ]
+}
